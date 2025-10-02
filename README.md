@@ -15,17 +15,9 @@ Hasil proses akan tersimpan di folder `render/`.
 
 ---
 
-## ⚙️ Instalasi
+## ⚙️ Instalasi di Android
 1. Pastikan sudah install `ffmpeg` & `ffprobe`:
-   - **Ubuntu/Debian**
-     ```bash
-     sudo apt install ffmpeg
-     ```
-   - **Arch Linux**
-     ```bash
-     sudo pacman -S ffmpeg
-     ```
-   - **Termux (Android)**
+   - **Termux**
      ```bash
      pkg install ffmpeg
      ```
