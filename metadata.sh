@@ -1,6 +1,6 @@
 #!/bin/bash
 # ======================================================
-# Script Name : metadata_edit.sh
+# Script Name : metadata.sh
 # Version     : 1.2
 # Description : metadata (Artist, Title, Album via argumen)
 # Author      : munons
